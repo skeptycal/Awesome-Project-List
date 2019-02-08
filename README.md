@@ -3,6 +3,12 @@ Awesome Project List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d73
 
 A list of practical beginner projects that anyone can solve in any programming language (See [solutions](https://github.com/skeptycal/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.
 
+## Credits
+
+The original repo was compiled by [Karan Goel](http://twitter.com/karangoel).
+
+Updated by [Michael Treanor](https://twitter.com/skeptycal) after being inactive for many years.
+
 To get started, simply fork this repo.
 
 ## [CONTRIBUTING](https://github.com/skeptycal/Awesome-Project-List/blob/master/CONTRIBUTING.md)
@@ -13,11 +19,6 @@ See ways of [contributing](https://github.com/skeptycal/Awesome-Project-List/blo
 ## [Solutions](https://github.com/skeptycal/Projects-Solutions)
 
 You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/skeptycal/Projects-Solutions).
-
-## Credits
-
-The original repo was compiled by [Karan Goel](http://twitter.com/karangoel).
-Updated by [Michael Treanor](https://twitter.com/skeptycal).
 
 Problems are motivated by the ones shared at:
 
