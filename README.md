@@ -1,22 +1,23 @@
-Mega Project List
+Awesome Project List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ========
 
-A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.
+A list of practical beginner projects that anyone can solve in any programming language (See [solutions](https://github.com/skeptycal/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.
 
 To get started, simply fork this repo.
 
-## [CONTRIBUTING](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md)
+## [CONTRIBUTING](https://github.com/skeptycal/Awesome-Project-List/blob/master/CONTRIBUTING.md)
 
-See ways of [contributing](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) to this repo. You can contribute **solutions** (will be published in this [repo](https://github.com/thekarangoel/Projects-Solutions)) to existing problems, **add new projects** or remove existing ones. Make sure you follow all instructions properly.
+See ways of [contributing](https://github.com/skeptycal/Awesome-Project-List/blob/master/CONTRIBUTING.md) to this repo. You can contribute **solutions** (will be published in this [repo](https://github.com/skeptycal/Projects-Solutions)) to existing problems, **add new projects** or remove existing ones. Make sure you follow all instructions properly.
 
 
-## [Solutions](https://github.com/thekarangoel/Projects-Solutions)
+## [Solutions](https://github.com/skeptycal/Projects-Solutions)
 
-You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/thekarangoel/Projects-Solutions).
+You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/skeptycal/Projects-Solutions).
 
 ## Credits
 
-This repo was compiled by [Karan Goel](http://twitter.com/karangoel).
+The original repo was compiled by [Karan Goel](http://twitter.com/karangoel).
+Updated by [Michael Treanor](https://twitter.com/skeptycal).
 
 Problems are motivated by the ones shared at:
 
